@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Kaushik Ram</title>
+    <link>http://localhost:4321/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Kaushik Ram</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:4321/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Productivity Analysis of NetLogo Networks</title>
+      <link>http://localhost:4321/project/robotics/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/robotics/</guid>
+      <description>&lt;p&gt;Using NetLogo, I created an agent based model that investigated whether certain team networks are more productive than others. Using R, I analyzed and visualized the results, putting all my findings into a paper I submitted for class.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

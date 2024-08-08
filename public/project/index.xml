@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kaushik Ram</title>
+    <link>http://localhost:4321/project/</link>
+    <description>Recent content in Projects on Kaushik Ram</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Productivity Analysis of NetLogo Networks</title>
+      <link>http://localhost:4321/project/robotics/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/robotics/</guid>
+      <description>&lt;p&gt;Using NetLogo, I created an agent based model that investigated whether certain team networks are more productive than others. Using R, I analyzed and visualized the results, putting all my findings into a paper I submitted for class.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workplace Positive Psychology Literature Review</title>
+      <link>http://localhost:4321/project/artificial-intelligence/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/artificial-intelligence/</guid>
+      <description>&lt;p&gt;As a final assignment, I analyzed  and the synthesized the findings of 16 published research papers on positive psychology in the workplace. The paper’s research questions were whether positive psychology is effective and which interventions show the most promising result.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Esteem &amp; Astrological Beliefs</title>
+      <link>http://localhost:4321/project/self-esteem/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/self-esteem/</guid>
+      <description>&lt;p&gt;Based on existing literature and theoretical background, two survey measures were sent out to 524 individuals to determine if there was a correlation between self-esteem and belief in astrology. Using SPSS, I found there was a small, but statistically significant negative correlation, The findings were presented as part of a poster presentation in my course.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

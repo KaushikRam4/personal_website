@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kaushik Ram</title>
+    <link>http://localhost:4321/tags/</link>
+    <description>Recent content in Tags on Kaushik Ram</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:4321/tags/data-analysis/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetLogo</title>
+      <link>http://localhost:4321/tags/netlogo/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/netlogo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literature Review</title>
+      <link>http://localhost:4321/tags/literature-review/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/literature-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plot</title>
+      <link>http://localhost:4321/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:4321/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>http://localhost:4321/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:4321/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:4321/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:4321/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>http://localhost:4321/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPSS</title>
+      <link>http://localhost:4321/tags/spss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/spss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academia</title>
+      <link>http://localhost:4321/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
