@@ -16,7 +16,7 @@ subtitle = ""
 
   
 [[feature]]
-  icon = "user-secret"
+  icon = "book"
   icon_pack = "fas"
   name = "Training"
 #  parcent = "90%"  
