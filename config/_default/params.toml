@@ -18,7 +18,7 @@ font = "classic"
 description = "Kaushik Ram is a graduate student studying organizational psychology, focusing on topics of remote teams, creativity, and leadership."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "square.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
