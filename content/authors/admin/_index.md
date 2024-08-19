@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: LinkedinPhoto.png
+avatar_image: SuitPhoto.jpg
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 btn:
