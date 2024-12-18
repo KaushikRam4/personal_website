@@ -2,11 +2,11 @@
 authors:
 - admin
 avatar_image: SuitPhoto.jpg
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: Hello!
   matter.
 btn:
 - label: Download Resume
-  url: "https://docs.google.com/document/d/1rf6GuK7P9bDq8N7IP-8vTyRM5IOfCW1C2cpSAwXzDEQ/edit#heading=h.gjdgxs"
+  url: "https://drive.google.com/file/d/1O5Aum5qZ4KziMowrGKXxQn7tAonT2YIK/view?usp=sharing"
 display_education: true
 education:
   courses:
@@ -18,9 +18,9 @@ education:
     year: 2021-2024
 email: "kaushik.r@icloud.com"
 interests:
-- Remote/Hybrid Teams
-- Creativity
-- Empathy
+- Remote and Hybrid Work Modalities
+- Encouraging Creativity and Innovation
+- Leadership & Organizational Culture
 name: Kaushik Ram
 organizations:
 - name: San Jose State University

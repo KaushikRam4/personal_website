@@ -17,18 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "People Operations Manager"
+  title = "Graduate Research Assistant"
+  company = "Workplace and Occupational Wellness Lab "
+  company_url = ""
+  location = "San Jose State University"
+  date_start = "2024-08-01"
+  date_end = ""
+  description = """
+I’ve had the privilege of conducting research as part of the Workplace and Occupational Wellness Lab. In this position, I've been able to review literature on topics like artificial intelligence, job insecurity, belongingness, and leadership. Being part of a research lab that bridges academic knowledge and practical application continues to shape my perspective on people operations and how analytics can help to improve the workplace experience.
+"""
+
+
+[[experience]]
+  title = "Associate – People & Culture, People Analytics, and Employee Engagement"
   company = "BuiltByBit"
   company_url = ""
   location = "Remote"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  * Recruited, trained, and mentored over 30 new team members, improving efficiency in the company 
-* Utilized MySQL to help perform data analysis and retrieve vital information from datasets
-* Used organizational psychology techniques to aid in better workforce planning and team relations 
-* Aided in business operations, policy implementation, and development documentation 
+In this role, I’ve worn many hats to support a growing startup, from recruiting and mentoring over 30 team members to analyzing data with MySQL to guide workforce planning. I’ve worked on streamlining policies, improving team dynamics, and creating operational workflows to make our processes smoother and more effective. Helping the team grow and thrive has been one of the most rewarding aspects of my work.
 
   """
 
@@ -41,9 +52,7 @@ date_format = "Jan 2006"
   date_end = "2024-05-31"
   description = """
   
-  * Analyzed and coded research papers to determine conclusions for a new databank
-* Ran participants through a behavioral study looking into the topic of creativity and problem-solving 
-* Conducted data analysis in R and contributed to a poster presentation 
+At the Marghetis Lab, I explored creativity and problem-solving through behavioral studies, while analyzing research data to build a comprehensive databank. Using R for data analysis and presenting findings through a poster session gave me valuable insights into how research can drive meaningful conclusions.
 
   
   """
@@ -57,55 +66,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-* Streamlined the logistics of an event for over 100 teams by coordinating volunteers
-* Mentored children K-12 on problem-solving, creativity, and teamwork skills
-* Visited various schools to assist in outreach and advocate program benefits to parents
+As part of the regional board, I had the chance to provide my insight and opinion on different ways for the board to best support its members. Additionally, in the monthly meetings, I took minutes to make sure those who were not able to join can still be informed. I went with other committee members to nearby schools to explain the benefits of the program and answer questions from students and their parents. Currently I'm one of the tournament co-directors, helping organize and coordinate volunteers and classrooms for an event for hundreds of people. 
   
-  
-  """
-  
-  [[experience]]
-  title = "Support Specialist"
-  company = "BuiltByBit"
-  company_url = ""
-  location = "Remote"
-  date_start = "2018-08-01"
-  date_end = "2019-10-01"
-  description = """
-  
-* Improved operational efficiency by clearing a longstanding 5-month backlog in support queries 
-* Boosted customer satisfaction through customer support and fostering positive relationships
-
-  
-  
-  """
-  
-   [[experience]]
-  title = "Project Lead"
-  company = "MCMart"
-  company_url = ""
-  location = "Remote"
-  date_start = "2018-01-01"
-  date_end = "2018-08-01"
-  description = """
-  
-* Maintained the website by working with both internal and external teams
-* Served as a community liaison by writing announcements and surveying the needs of the userbase
-  
-  
-  """
-  
-    [[experience]]
-  title = "Teaching Assistant"
-  company = "NextGenTech Learning"
-  company_url = ""
-  location = "California"
-  date_start = "2018-01-01"
-  date_end = "2018-08-01"
-  description = """
-  
-* Assisted instructors with teaching programming and robotics concepts to students K-12
-* Troubleshooted problems with technology and organized the computer room
 
   
   
