@@ -15,12 +15,12 @@ education:
     year: 2024-2026 (In Progress)
   - course: B.A. in Cognitive Science & Psychology
     institution: University of California, Merced
-    year: 2021-2024
 email: "kaushik.r@icloud.com"
 interests:
 - Remote and Hybrid Work Modalities
 - Encouraging Creativity and Innovation
-- Leadership & Organizational Culture
+- Well-Being & Organizational Culture
+- Social Justice and Leadership
 name: Kaushik Ram
 organizations:
 - name: San Jose State University
@@ -48,5 +48,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a graduate student studying Industrial Organizational Psychology San Jose State University. My research interests include remote/hybrid teams, creativity, and teamwork. I also have experience as a People Operations Manager, managing a remote team at BuiltByBit.
+I'm a graduate student studying Industrial Organizational Psychology San Jose State University. My research interests include creativity, globally distributed teams, corporate social responsibility, and culture. I also have experience as a People Operations Manager, managing a remote team at BuiltByBit.
 

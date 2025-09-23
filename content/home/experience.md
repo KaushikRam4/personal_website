@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Research Lab Manager"
   company = "Workplace and Occupational Wellness Lab "
   company_url = ""
   location = "San Jose State University"
@@ -32,11 +32,11 @@ I’ve had the privilege of conducting research as part of the Workplace and Occ
 
 
 [[experience]]
-  title = "Associate – People & Culture, People Analytics, and Employee Engagement"
+  title = "People Operations and Strategy Manager"
   company = "BuiltByBit"
   company_url = ""
   location = "Remote"
-  date_start = "2019-10-01"
+  date_start = "2022-05-01"
   date_end = ""
   description = """
 In this role, I’ve worn many hats to support a growing startup, from recruiting and mentoring over 30 team members to analyzing data with MySQL to guide workforce planning. I’ve worked on streamlining policies, improving team dynamics, and creating operational workflows to make our processes smoother and more effective. Helping the team grow and thrive has been one of the most rewarding aspects of my work.
